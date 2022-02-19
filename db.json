@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "Name": "Vishal",
+      "age": "26",
+      "Address": "Kanpur ",
+      "Department": "D-2",
+      "Salary": "315",
+      "marital": true,
+      "files": "C:\\fakepath\\Screenshot (6).png",
+      "id": 6
+    },
+    {
+      "Name": "Gaurabh Kushwaha",
+      "age": "16",
+      "Address": "Kanpur ",
+      "Department": "D-2",
+      "Salary": "98754",
+      "marital": true,
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 10
+    },
+    {
+      "Name": "Gaurabh Kushwaha",
+      "age": "16",
+      "Address": "Kanpur ",
+      "Department": "D-2",
+      "Salary": "98754",
+      "marital": true,
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 11
+    },
+    {
+      "Name": "shubham",
+      "age": "16",
+      "Address": "Kanpur ",
+      "Department": "D-2",
+      "Salary": "98754",
+      "marital": false,
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 12
+    },
+    {
+      "Name": "Gaurabh Kushwaha",
+      "age": "34",
+      "Address": "Kanpur Nagar",
+      "Department": "D-2",
+      "Salary": "77777777777",
+      "marital": true,
+      "files": "C:\\fakepath\\Screenshot (15).png",
+      "id": 13
+    },
+    {
+      "Name": "chitransh",
+      "age": "30",
+      "Address": "Kanpur Nagar",
+      "Department": "D-2",
+      "Salary": "77777777777",
+      "marital": true,
+      "files": "C:\\fakepath\\Screenshot (15).png",
+      "id": 14
+    },
+    {
+      "Name": "chitransh kumar",
+      "age": "22",
+      "Address": "Kanpur Nagar",
+      "Department": "D-2",
+      "Salary": "200000",
+      "marital": true,
+      "files": "C:\\fakepath\\Screenshot (15).png",
+      "id": 15
+    },
+    {
+      "Name": "Gaurabh Kushwaha",
+      "age": "666",
+      "Address": "Kanpur Nagar",
+      "Department": "D-2",
+      "Salary": "778",
+      "marital": true,
+      "id": 16
+    },
+    {
+      "Name": "Gaurabh Kushwaha",
+      "age": "666",
+      "Address": "Kanpur Nagar",
+      "Department": "D-2",
+      "Salary": "778",
+      "marital": true,
+      "id": 17
+    },
+    {
+      "Name": "aman",
+      "age": "22",
+      "Address": "Up",
+      "Department": "D-1",
+      "Salary": "12000",
+      "marital": true,
+      "files": "C:\\fakepath\\SaurabhResume.pdf",
+      "id": 19
+    },
+    {
+      "Name": "Gaurabh Kushwaha",
+      "Address": "Kanpur Nagar",
+      "Department": "D-1",
+      "id": 20
+    }
+  ]
+}
